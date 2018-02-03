@@ -1,0 +1,18 @@
+c:\users\svc_okc_bt204\documents\visual studio 2015\Projects\JG_Homework1_Calculator\JG_Homework1_Calculator\bin\Debug\JG_Homework1_Calculator.exe.config
+c:\users\svc_okc_bt204\documents\visual studio 2015\Projects\JG_Homework1_Calculator\JG_Homework1_Calculator\obj\Debug\JG_Homework1_Calculator.csprojResolveAssemblyReference.cache
+c:\users\svc_okc_bt204\documents\visual studio 2015\Projects\JG_Homework1_Calculator\JG_Homework1_Calculator\obj\Debug\JG_Homework1_Calculator.Form1.resources
+c:\users\svc_okc_bt204\documents\visual studio 2015\Projects\JG_Homework1_Calculator\JG_Homework1_Calculator\obj\Debug\JG_Homework1_Calculator.Properties.Resources.resources
+c:\users\svc_okc_bt204\documents\visual studio 2015\Projects\JG_Homework1_Calculator\JG_Homework1_Calculator\obj\Debug\JG_Homework1_Calculator.csproj.GenerateResource.Cache
+c:\users\svc_okc_bt204\documents\visual studio 2015\Projects\JG_Homework1_Calculator\JG_Homework1_Calculator\bin\Debug\JG_Homework1_Calculator.exe
+c:\users\svc_okc_bt204\documents\visual studio 2015\Projects\JG_Homework1_Calculator\JG_Homework1_Calculator\bin\Debug\JG_Homework1_Calculator.pdb
+c:\users\svc_okc_bt204\documents\visual studio 2015\Projects\JG_Homework1_Calculator\JG_Homework1_Calculator\obj\Debug\JG_Homework1_Calculator.exe
+c:\users\svc_okc_bt204\documents\visual studio 2015\Projects\JG_Homework1_Calculator\JG_Homework1_Calculator\obj\Debug\JG_Homework1_Calculator.pdb
+E:\JG_Homework1_Calculator\JG_Homework1_Calculator\bin\Debug\JG_Homework1_Calculator.exe.config
+E:\JG_Homework1_Calculator\JG_Homework1_Calculator\obj\Debug\JG_Homework1_Calculator.exe
+E:\JG_Homework1_Calculator\JG_Homework1_Calculator\obj\Debug\JG_Homework1_Calculator.pdb
+E:\JG_Homework1_Calculator\JG_Homework1_Calculator\bin\Debug\JG_Homework1_Calculator.exe
+E:\JG_Homework1_Calculator\JG_Homework1_Calculator\bin\Debug\JG_Homework1_Calculator.pdb
+E:\JG_Homework1_Calculator\JG_Homework1_Calculator\obj\Debug\JG_Homework1_Calculator.csprojResolveAssemblyReference.cache
+E:\JG_Homework1_Calculator\JG_Homework1_Calculator\obj\Debug\JG_Homework1_Calculator.Form1.resources
+E:\JG_Homework1_Calculator\JG_Homework1_Calculator\obj\Debug\JG_Homework1_Calculator.Properties.Resources.resources
+E:\JG_Homework1_Calculator\JG_Homework1_Calculator\obj\Debug\JG_Homework1_Calculator.csproj.GenerateResource.Cache
