@@ -49,6 +49,10 @@
             this.firstNLabel = new System.Windows.Forms.Label();
             this.secondNLabel = new System.Windows.Forms.Label();
             this.operatorLabel = new System.Windows.Forms.Label();
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // oneButton
@@ -222,7 +226,7 @@
             // 
             this.resultLabel.AutoSize = true;
             this.resultLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F);
-            this.resultLabel.Location = new System.Drawing.Point(13, 57);
+            this.resultLabel.Location = new System.Drawing.Point(13, 62);
             this.resultLabel.Name = "resultLabel";
             this.resultLabel.Size = new System.Drawing.Size(29, 31);
             this.resultLabel.TabIndex = 14;
@@ -267,7 +271,7 @@
             // firstNLabel
             // 
             this.firstNLabel.AutoSize = true;
-            this.firstNLabel.Location = new System.Drawing.Point(16, 9);
+            this.firstNLabel.Location = new System.Drawing.Point(16, 34);
             this.firstNLabel.Name = "firstNLabel";
             this.firstNLabel.Size = new System.Drawing.Size(35, 13);
             this.firstNLabel.TabIndex = 18;
@@ -276,7 +280,7 @@
             // secondNLabel
             // 
             this.secondNLabel.AutoSize = true;
-            this.secondNLabel.Location = new System.Drawing.Point(114, 9);
+            this.secondNLabel.Location = new System.Drawing.Point(145, 34);
             this.secondNLabel.Name = "secondNLabel";
             this.secondNLabel.Size = new System.Drawing.Size(35, 13);
             this.secondNLabel.TabIndex = 19;
@@ -285,11 +289,36 @@
             // operatorLabel
             // 
             this.operatorLabel.AutoSize = true;
-            this.operatorLabel.Location = new System.Drawing.Point(68, 9);
+            this.operatorLabel.Location = new System.Drawing.Point(82, 34);
             this.operatorLabel.Name = "operatorLabel";
             this.operatorLabel.Size = new System.Drawing.Size(35, 13);
             this.operatorLabel.TabIndex = 20;
             this.operatorLabel.Text = "label3";
+            // 
+            // menuStrip1
+            // 
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.fileToolStripMenuItem});
+            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Size = new System.Drawing.Size(200, 24);
+            this.menuStrip1.TabIndex = 21;
+            this.menuStrip1.Text = "menuStrip1";
+            // 
+            // fileToolStripMenuItem
+            // 
+            this.fileToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.exitToolStripMenuItem});
+            this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
+            this.fileToolStripMenuItem.Size = new System.Drawing.Size(35, 20);
+            this.fileToolStripMenuItem.Text = "&File";
+            // 
+            // exitToolStripMenuItem
+            // 
+            this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.exitToolStripMenuItem.Text = "E&xit";
+            this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
             // 
             // Form1
             // 
@@ -317,10 +346,14 @@
             this.Controls.Add(this.threeButton);
             this.Controls.Add(this.twoButton);
             this.Controls.Add(this.oneButton);
+            this.Controls.Add(this.menuStrip1);
             this.KeyPreview = true;
+            this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.Text = "Form1";
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
+            this.menuStrip1.ResumeLayout(false);
+            this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -349,6 +382,9 @@
         private System.Windows.Forms.Label firstNLabel;
         private System.Windows.Forms.Label secondNLabel;
         private System.Windows.Forms.Label operatorLabel;
+        private System.Windows.Forms.MenuStrip menuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem fileToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem;
     }
 }
 

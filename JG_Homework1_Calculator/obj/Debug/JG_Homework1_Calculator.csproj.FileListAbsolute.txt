@@ -16,3 +16,13 @@ E:\JG_Homework1_Calculator\JG_Homework1_Calculator\obj\Debug\JG_Homework1_Calcul
 E:\JG_Homework1_Calculator\JG_Homework1_Calculator\obj\Debug\JG_Homework1_Calculator.Form1.resources
 E:\JG_Homework1_Calculator\JG_Homework1_Calculator\obj\Debug\JG_Homework1_Calculator.Properties.Resources.resources
 E:\JG_Homework1_Calculator\JG_Homework1_Calculator\obj\Debug\JG_Homework1_Calculator.csproj.GenerateResource.Cache
+C:\Users\root\Desktop\JG_Homework1_Calculator\JG_Homework1_Calculator\bin\Debug\JG_Homework1_Calculator.exe.config
+C:\Users\root\Desktop\JG_Homework1_Calculator\JG_Homework1_Calculator\bin\Debug\JG_Homework1_Calculator.exe
+C:\Users\root\Desktop\JG_Homework1_Calculator\JG_Homework1_Calculator\bin\Debug\JG_Homework1_Calculator.pdb
+C:\Users\root\Desktop\JG_Homework1_Calculator\JG_Homework1_Calculator\obj\Debug\JG_Homework1_Calculator.csprojResolveAssemblyReference.cache
+C:\Users\root\Desktop\JG_Homework1_Calculator\JG_Homework1_Calculator\obj\Debug\JG_Homework1_Calculator.Form1.resources
+C:\Users\root\Desktop\JG_Homework1_Calculator\JG_Homework1_Calculator\obj\Debug\JG_Homework1_Calculator.Properties.Resources.resources
+C:\Users\root\Desktop\JG_Homework1_Calculator\JG_Homework1_Calculator\obj\Debug\JG_Homework1_Calculator.csproj.GenerateResource.Cache
+C:\Users\root\Desktop\JG_Homework1_Calculator\JG_Homework1_Calculator\obj\Debug\JG_Homework1_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\JG_Homework1_Calculator\JG_Homework1_Calculator\obj\Debug\JG_Homework1_Calculator.exe
+C:\Users\root\Desktop\JG_Homework1_Calculator\JG_Homework1_Calculator\obj\Debug\JG_Homework1_Calculator.pdb
